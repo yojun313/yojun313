@@ -10,4 +10,4 @@ yojun313/yojun313 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.instagram.com/yo_jjun/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=flat&logo=#E4405F&logoColor=CC0000"/></a>
+<a href="https://www.instagram.com/yo_jjun/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=CC0000&logoColor=CC0000"/></a>
