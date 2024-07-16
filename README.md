@@ -6,7 +6,7 @@
   Devices
 - Apple MacBook Pro 16 (2021, M1 Pro)
 - Apple iPad Pro 12.9 (5th generation, M1)
-- Apple ipad mini (5th generation)
+- Apple iPad mini (5th generation)
 - HP Z8 (KNPU BIGMACLAB)
 - HP OMEN (KNPU BIGMACLAB)
 
