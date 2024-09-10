@@ -3,13 +3,6 @@
 - 🌱 I’m currently learning Computer Science in POSTECH ...
 - 💻 I am currently using these devices for Developing ...
 
-  Devices
-- Apple MacBook Pro 16 (2021, M1 Pro)
-- Apple iPad Pro 12.9 (5th generation, M1)
-- Apple iPad mini (5th generation)
-- HP Z8 (KNPU BIGMACLAB)
-- HP OMEN (KNPU BIGMACLAB)
-
 <!---
 yojun313/yojun313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
