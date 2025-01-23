@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @yojun313
-- 👀 I’m interested in Computer Science & Engineering / Python / Java / C++...
-- 🌱 I’m currently learning Computer Science in POSTECH ...
-- 💻 I am currently using MacBook Pro(2021) for Developing ...
+Yojun Moon
+
+- Undergraduate Student of POSTECH Computer Science & Engineering 
+- Developer in BIGMACLAB(BigData & Machine Learning Lab) @ Korea National Police University
+
+Built...
+
+- Web Crawling System of Social Platforms Naver News/Blog/Cafe, YouTube (http://bigmaclab-crawler.kro.kr:81)
+- Complaint Generator System Based on ChatGPT (http://www.bigmaclab-gpt.kro.kr:112)
+- Unified Data Crawling & Processing Desktop App (https://knpu.re.kr/tool)
+- BIGMACLAB Web Homepage (https://knpu.re.kr)
+
+Developing...
+
+- PCSS: POSTECH Computer Scientist Search System
 
 <!---
 yojun313/yojun313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
