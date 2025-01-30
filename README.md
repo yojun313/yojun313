@@ -2,8 +2,8 @@
 
 Yojun Moon
 
-- Undergraduate Student of POSTECH Computer Science & Engineering 
-- Developer in BIGMACLAB(BigData & Machine Learning Lab) @ Korea National Police University
+- Undergraduate Student of Computer Science & Engineering @ Pohang University of Science & Technology (POSTECH)
+- Developer in BIGMACLAB(BigData & Machine Learning Lab) @ Korea National Police University (KNPU)
 
 Built...
 
