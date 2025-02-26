@@ -5,8 +5,10 @@
 **Undergraduate Student of Computer Science & Engineering**  
 📍 **Pohang University of Science and Technology (POSTECH)**  
 
+
 **Developer at BIGMACLAB**  
 🏢 **BigData & Machine Learning Lab @ Korea National Police University (KNPU)**  
+
 
 **Developer at EastAnts**
 🐜 **AI Service Startup**
