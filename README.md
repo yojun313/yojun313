@@ -8,6 +8,9 @@
 **Developer at BIGMACLAB**  
 🏢 **BigData & Machine Learning Lab @ Korea National Police University (KNPU)**  
 
+**Developer at EastAnts**
+🐜 **AI Service Startup**
+
 ---
 
 ## 🚀 Projects
