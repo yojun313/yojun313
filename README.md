@@ -45,8 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yojun313&show_icons=true&theme=tokyonight" alt="Yojun's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yojun313&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=yojun313&theme=tokyonight" alt="Activity Graph" />
 </p>
 
 ---
