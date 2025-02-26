@@ -26,7 +26,7 @@
   Official website for BIGMACLAB.
 
 ### 🔧 Developing
-- 🔍 **PCSS: POSTECH Computer Scientist Search System**  
+- 🔍 **[PCSS: POSTECH Computer Scientist Search System][http://pcss.r-e.kr:3000]**  
   A system to search for computer scientists at POSTECH.
 
 ---
