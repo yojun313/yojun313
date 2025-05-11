@@ -27,7 +27,7 @@
 ## 🚀 Projects
 
 ### 🔨 Built
-- 🌐 **[Web Crawling System](http://bigmaclab-crawler.kro.kr:81)**  
+- 🌐 **[Web Crawling System](https://crawler.knpu.re.kr)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - 🤖 **[Complaint Generator System](http://www.bigmaclab-gpt.kro.kr:112)**  
   AI-based complaint generation using ChatGPT.
