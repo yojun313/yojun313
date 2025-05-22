@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <strong>Developer at BIGMACLAB</strong><br>
-  🏢 <strong>BigData & Machine Learning Lab @ Korea National Police University (KNPU)</strong>
+  <strong>Developer at CAL LAB</strong><br>
+  🏢 <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
 </p>
 
 <p align="center">
