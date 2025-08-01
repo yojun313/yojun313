@@ -18,11 +18,6 @@
   🏢 <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
 </p>
 
-<p align="center">
-  <strong>Developer at EastAnts</strong><br>
-  🐜 <strong>AI Service Startup</strong>
-</p>
-
 ---
 
 ## 🚀 Projects
@@ -30,8 +25,6 @@
 ### 🔨 Built
 - 🌐 **[Web Crawling System](https://crawler.knpu.re.kr)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
-- 🤖 **[Complaint Generator System](http://www.bigmaclab-gpt.kro.kr:112)**  
-  AI-based complaint generation using ChatGPT.
 - 💻 **[Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/tool)**  
   A desktop tool for data crawling and processing.
 - 🏠 **[BIGMACLAB Web Homepage](https://knpu.re.kr)**  
