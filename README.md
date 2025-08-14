@@ -27,8 +27,8 @@
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - 💻 **[Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/tool)**  
   A desktop tool for data crawling and processing.
-- 🏠 **[BIGMACLAB Web Homepage](https://knpu.re.kr)**  
-  Official website for BIGMACLAB.
+- 🏠 **[KNPU CAL LAB Homepage](https://knpu.re.kr)**  
+  Lab website for CAL LAB.
 
 ### 🔧 Developing
 - 🔍 **[PCSS: POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
