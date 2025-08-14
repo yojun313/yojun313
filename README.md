@@ -6,16 +6,16 @@
 </p>
 
 
-<h1 align="center">👨‍💻 Yojun Moon</h1>
+<h1 align="center">Yojun Moon</h1>
 
 <p align="center">
   <strong>Undergraduate Student of Computer Science & Engineering</strong><br>
-  📍 <strong>Pohang University of Science and Technology (POSTECH)</strong>
+  <strong>Pohang University of Science and Technology (POSTECH)</strong>
 </p>
 
 <p align="center">
   <strong>Developer at CAL LAB</strong><br>
-  🏢 <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
+  <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
 </p>
 
 ---
@@ -31,7 +31,7 @@
   Lab website for CAL LAB.
 
 ### Developing
-- 🔍 **[PCSS: POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
+- **[PCSS: POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
   A system to search for korean computer scientists
 
 ---
