@@ -1,15 +1,14 @@
-<h1 center="align">Yojun Moon</h1>
+<h1 align="center">Yojun Moon</h1>
 
-<p center="align">
+<p align="center">
   <strong>Undergraduate Student of Computer Science & Engineering</strong><br>
   <strong>Pohang University of Science and Technology (POSTECH)</strong>
 </p>
 
-<p center="align">
+<p align="center">
   <strong>Developer at CAL LAB</strong><br>
   <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
 </p>
-
 ---
 
 ## Projects
