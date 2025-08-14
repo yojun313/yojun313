@@ -1,11 +1,3 @@
-<p>
-  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-  <a href="https://nodejs.org/ko" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
-  <a href="https://www.instagram.com/yo_jjun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white"/></a>
-</p>
-
-
 <h1 align="center">Yojun Moon</h1>
 
 <p align="center">
