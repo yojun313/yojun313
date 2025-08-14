@@ -27,10 +27,3 @@
   A system to search for korean computer scientists
 
 ---
-
-## Contact
-
-<p align="center">
-   <a href="mailto:yojun313@postech.ac.kr">yojun313@postech.ac.kr</a> • 
-   <a href="https://github.com/yojun313" target="_blank">github.com/yojun313</a>
-</p>
