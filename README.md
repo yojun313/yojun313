@@ -17,7 +17,7 @@
 ### Built
 - **[Web Crawling System](https://crawler.knpu.re.kr)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
-- **[Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/tool)**  
+- **[Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/manager)**  
   A desktop tool for data crawling and processing.
 - **[KNPU CAL LAB Homepage](https://knpu.re.kr)**  
   Lab website for CAL LAB.
