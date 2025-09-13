@@ -21,8 +21,6 @@
   A desktop tool for data crawling and processing.
 - **[KNPU CAL LAB Homepage](https://knpu.re.kr)**  
   Lab website for CAL LAB.
-
-### Developing
 - **[PCSS: POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
   A system to search for korean computer scientists
 
