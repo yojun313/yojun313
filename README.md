@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>Developer at CAL LAB</strong><br>
-  <strong>CAL Lab @ Korea National Police University (KNPU)</strong>
+  <strong>Developer at PAI LAB</strong><br>
+  <strong>PAI Lab @ Korea National Police University (KNPU)</strong>
 </p>
 
 ---
