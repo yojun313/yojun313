@@ -19,8 +19,8 @@
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - **[Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/manager)**  
   A desktop tool for data crawling and processing.
-- **[KNPU CAL LAB Homepage](https://knpu.re.kr)**  
-  Lab website for CAL LAB.
+- **[KNPU PAI LAB Homepage](https://knpu.re.kr)**  
+  Lab website for PAI LAB.
 - **[PCSS: POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
   A system to search for korean computer scientists
 
