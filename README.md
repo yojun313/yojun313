@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Developer at PAI LAB</strong><br>
+  <strong>Research Developer at PAI LAB</strong><br>
   <strong>PAI Lab @ Korea National Police University (KNPU)</strong>
 </p>
 
