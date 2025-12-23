@@ -21,6 +21,8 @@
   A desktop tool for data crawling and processing.
 - **[KNPU PAI LAB Homepage](https://knpu.re.kr)**  
   Lab website for PAI LAB.
+- **[AI Complaint Generator](https://complaint.knpu.re.kr)**  
+  Complaint generator powered by an local LLM server
 - **[PCSS - POSTECH Computer Scientist Search System](http://pcss.r-e.kr:3000)**  
   A system to search for korean computer scientists
 
