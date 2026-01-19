@@ -15,6 +15,8 @@
 ## Projects
 
 ### Built
+- **[PCSS - POSTECH Computer Scientist Search System](https://pcss.r-e.kr/)**  
+  A system to search for korean computer scientists
 - **[CRAWLER - Web Crawling System](https://crawler.knpu.re.kr/)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - **[MANAGER - Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/manager/)**  
@@ -23,7 +25,5 @@
   Lab website for PAI LAB.
 - **[AI Complaint Generator](https://complaint.knpu.re.kr/)**  
   Complaint generator powered by an local LLM server
-- **[PCSS - POSTECH Computer Scientist Search System](https://pcss.r-e.kr/)**  
-  A system to search for korean computer scientists
 
 ---
