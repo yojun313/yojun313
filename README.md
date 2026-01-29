@@ -5,11 +5,6 @@
   <strong>Pohang University of Science and Technology (POSTECH)</strong>
 </p>
 
-<p align="center">
-  <strong>Research Developer at PAI LAB</strong><br>
-  <strong>PAI Lab @ Korea National Police University (KNPU)</strong>
-</p>
-
 ---
 
 ## Projects
