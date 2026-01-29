@@ -16,8 +16,6 @@
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - **[MANAGER - Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/manager/)**  
   A desktop tool for data crawling and processing.
-- **[KNPU PAI LAB Homepage](https://knpu.re.kr/)**  
-  Lab website for PAI LAB.
 - **[AI Complaint Generator](https://complaint.knpu.re.kr/)**  
   Complaint generator powered by an local LLM server
 
