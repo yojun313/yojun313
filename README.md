@@ -10,7 +10,7 @@
 ## Projects
 
 ### Built
-- **[PCSS - POSTECH Computer Scientist Search System](https://pcss.r-e.kr/)**  
+- **[PCSS - POSTECH Computer Scientist Search System](https://pcss.postech.ac.kr/)**  
   A system to search for korean computer scientists
 - **[CRAWLER - Web Crawling System](https://crawler.knpu.re.kr/)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
