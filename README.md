@@ -12,6 +12,8 @@
 ### Built
 - **[PCSS - POSTECH Computer Scientist Search System](https://pcss.postech.ac.kr/)**  
   A system to search for korean computer scientists
+- **[LecAI](https://lec.knpu.re.kr/)**  
+  Lecture slides description generator & viewer with AI
 - **[CRAWLER - Web Crawling System](https://crawler.knpu.re.kr/)**  
   Crawling Naver News/Blog/Cafe, YouTube, and other social platforms.
 - **[MANAGER - Unified Data Crawling & Processing Desktop App](https://knpu.re.kr/manager/)**  
