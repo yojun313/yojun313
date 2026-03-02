@@ -10,7 +10,7 @@
 ## Projects
 
 ### Built
-- **[PCSS - POSTECH Computer Scientist Search System](https://pcss.postech.ac.kr/)**  
+- **[PCSS - POSTECH Computer Scientist Search](https://pcss.postech.ac.kr/)**  
   A system to search for korean computer scientists
 - **[LecAI](https://lec.knpu.re.kr/)**  
   Lecture slides description generator & viewer with AI
