@@ -11,7 +11,7 @@
 
 ### Built
 - **[PCSS - POSTECH Computer Scientist Search](https://pcss.postech.ac.kr/)**  
-  A system to search for korean computer scientists
+  A system to search for korean computer scientists (Available only to POSTECH members)
 - **[LecAI](https://lec.knpu.re.kr/)**  
   Lecture slides description generator & viewer with AI
 - **[CRAWLER - Web Crawling System](https://crawler.knpu.re.kr/)**  
