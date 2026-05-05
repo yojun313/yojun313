@@ -5,9 +5,6 @@
   <strong>Pohang University of Science and Technology (POSTECH)</strong>
 </p>
 
----
-
-## Projects
 
 ### Built
 - **[PCSS - POSTECH Computer Scientist Search](https://pcss.postech.ac.kr/)**  
