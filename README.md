@@ -9,7 +9,7 @@
 ### Built
 - **[PCSS - POSTECH Computer Scientist Search](https://pcss.postech.ac.kr/)**  
   A system to search for korean computer scientists (Available only to POSTECH members)
-- **[PAILAB Research System](https://knpu.re.kr/systems)**  
-  Research System for PAILAB @ Korea National Police University
+- **[FPEI Research System](https://knpu.re.kr/systems)**  
+  Research System for FPEI @ Korea National Police University
 
 ---
