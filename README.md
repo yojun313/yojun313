@@ -6,7 +6,7 @@
 </p>
 
 ### My Website
-**[www.yojun.dev](https://www.yojun.dev/)**  
+- **[www.yojun.dev](https://www.yojun.dev/)**  
 
 ### Built
 - **[PCSS - POSTECH Computer Scientist Search](https://pcss.postech.ac.kr/)**  
